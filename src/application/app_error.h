@@ -1,0 +1,13 @@
+#ifndef _H_APP_ERROR_H_
+#define _H_APP_ERROR_H_
+
+#define ERROR_INVALID_PARAMS              -1
+#define ERROR_REACH_MAX_API_LIMIT         -2
+
+#define ERROR_WEBSOCKET_NOT_INIT         -100
+#define ERROR_WEBSOCKET_NOT_CONNECTED    -101
+
+#define ERROR_CONFERENCE_NOT_JOINED      -200
+#define ERROR_CONFERENCE_ALREADY_JOINED  -201
+
+#endif
